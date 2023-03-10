@@ -1,0 +1,715 @@
+#home{
+    background-image: url(https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&w=1000&q=80);
+background-size: cover;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color:rgba(176, 224, 230, 0.422);
+
+    
+}
+a{
+    margin-left: 50px;
+    text-decoration: none;
+    color:black;
+    text-align: center;
+}
+li{
+    padding-top: 20px;
+}
+.d{
+    margin-top: 20px;
+    padding-top: 0px;
+}
+p{
+    font-size: 20px;
+}
+.a{
+    padding-top: 50px;
+}
+.a{
+    font-size: 60px;
+    padding-left: 50px;
+    padding-top:50px;
+}
+.b{
+    font-size: 25px;
+    padding-left: 50px;
+}
+p{
+    padding-left: 50px;
+}
+#pk{
+        background-image: url(https://bootstrapmade.com/demo/templates/Restaurantly/assets/img/about.jpg);
+        display: flex;
+}
+.s{
+    color: white;
+    margin-left: 30px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-size: large;
+}
+.o{
+    padding-top: 100px;
+}
+.o{
+    filter: grayscale(1);
+    border: 1px;
+    border-radius: 50%;
+}
+.o:hover{
+filter:opacity(1);
+}
+
+#k{
+    background-image: url(https://wallpapercave.com/wp/wp4063175.jpg);
+    display: flex;
+    margin-top: 20px;
+}
+.e{
+    padding-top: 50px;
+    height:300px;
+    width:300px;
+    background-color:rgba(169, 169, 169, 0.228);
+    color:floralwhite ;
+    margin-top:80px;
+    text-align:left;
+    font-size: 25px;
+}
+.e:hover{
+    background-color:rgb(222, 168, 98);
+}
+.f{
+    padding-top: 50px;
+    height:300px;
+    width:300px;
+    background-color:rgba(169, 169, 169, 0.228);
+    color:rgba(240, 254, 255, 0.733) ;
+    margin-top:80px;
+    margin-left: 50px;
+    text-align:left;
+    font-size:25px;
+}
+.f:hover{
+    background-color:rgb(222, 168, 98);
+}
+.g{
+    padding-top: 50px;
+    height:300px;
+    width:300px;
+    background-color:rgba(169, 169, 169, 0.228);
+    color:white;
+    margin-top: 80px;
+    margin-left:60px;
+    text-align:left;
+    font-size: 25px;
+}
+.g:hover{
+    background-color:rgb(222, 168, 98);
+
+}
+.a{
+    font-size: 40px;
+    color: white;
+    text-transform: capitalize;
+    text-shadow: 5px 0px 2px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-style: italic;
+    margin-top: 100px;
+}
+.c{
+    font-size: 40px;
+    color:burlywood;
+    text-transform: capitalize;
+    text-shadow: 5px 0px 2px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-style: italic;
+    margin-top: 200px;
+}
+button{
+    margin-left: 50px;
+    padding: 10px;
+    border: 2px solid burlywood;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+button:hover{
+    background-color: rgba(209, 149, 71, 0.84);
+}
+.w{
+    font-size: 100px;
+    color: rgb(220, 193, 157);
+}
+.u{
+    font-size: 15px;
+    padding-top: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: darkgray;
+}
+.v{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 40px;
+    color:navajowhite;
+}
+#z{
+    display: flex;
+    margin-left: 100px;
+}
+
+/* 4th page starts */
+#xyz{
+    background-color:rgb(59, 58, 58);
+    color: white;
+    
+}
+
+#div1{
+    background-color:rgb(59, 58, 58);
+}
+
+.sec1{
+    display: flex;
+    height: 150px;
+    margin-left: 30px;
+  
+    
+}
+
+.pic{
+    border-radius: 50%;
+    border: 1px;
+    margin-top: 20px;
+}
+
+.tit1{
+    color: white;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.tit1 b{
+    color: orange;
+}
+
+.tit1 p{
+    margin-bottom: 1000px;
+}
+
+.im2{
+    margin-left:60px;
+}
+
+
+ #ul{
+    list-style-type: none;
+    display: flex; 
+    color:black;
+    background-color: rgb(59, 58, 58);
+    font-size: 20px;
+    padding-left: 350px;
+}
+
+ #ul a{
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+}
+
+#ul a:hover{
+    color: orange;
+}
+
+#xyz h3,h1{
+    margin-left: 50px;
+}
+
+#xyz h1{
+    color: orange;
+}
+
+#xyz h3{
+    color: black;
+}
+/* 4th page ends */
+
+/* 5th page starts */
+#shivu143{
+    background-color: black;
+    margin-top: 5px;
+}
+.ab{
+    color: rgba(255, 255, 255, 0.829);
+    padding-top: 10px;
+    margin-right: 10px;
+}
+.ac{
+    color:rgb(234, 161, 71);
+
+}
+.ab{
+    font-size:15px;
+    padding-top: 40px;
+    margin-right: 10px;
+}
+.ac{
+    font-size: 40px;
+    margin-left: 40px;
+}
+
+#ac{
+    margin-left: 10px;
+    padding: 10px;
+    margin-right: 90px;
+
+}
+
+.sd{
+    margin:  15PX;
+    
+   font-size: 15px;
+}
+.sd1{
+    font-size: 20px;
+}
+#bhar{
+    color: white;
+    margin-right: 40px;
+    border-right: 1px solid orange;
+    margin: 10px;
+    margin-left: 0px;
+    font-size: 25px;
+    
+}
+#ac{
+color: white;
+}
+#ven{
+    color: white;
+}
+.ven{
+    color: white;
+}
+#ac{
+    color: white;
+}
+#ac:hover{
+    color: rgb(252, 182, 97);
+}
+#ven{
+    color: white;
+}
+#ven:hover{
+    color: rgb(252, 182, 97);
+}
+.ven{
+    color: white;
+}
+.ven:hover{
+  color:  rgb(252, 182, 97);
+}
+.bha{
+    padding-left: 10px;
+}
+.bhar{
+    display: flex;
+    color: white;
+    
+}
+.pus{
+    display: flex;
+}
+/* 5th page ends */
+
+
+/* 6th page starts */
+#aus{
+    background-color: black;
+    
+}
+.sk{
+    color: rgb(255, 255, 255);
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.sk1{
+    color: rgba(248, 166, 66, 0.804);
+    margin-left: 10px;
+    font-size: 40px;
+}
+.link{
+    display: flex;
+}
+
+.sk3{
+    color: white;
+    
+}
+/* 6th page  ends */
+
+/* 7th page starts */
+#fit{
+    background-color:black;
+}
+.kk1{
+    color: white;
+    margin-left: 30px;
+    padding-top: 40px;
+}
+.kk2{
+    color: rgb(244, 162, 63);
+    font-size: 40px;
+    margin-left: 30px;
+}
+
+.row{
+   display: flex;   
+    
+}
+.col{
+background-color: black;
+    padding-left: 60px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+#rr1{
+    display: flex;
+}
+.xx1{
+    padding-left: 60px;
+    margin-bottom: 30px;
+}
+.nb1{
+    margin-left: 550px;
+    margin-top: 30px;
+}
+.xx2{
+    color: black;
+    padding-left: 60px;
+}
+
+.row input{
+    background-color: black;
+    padding: 10px;
+    padding-right: 100px;
+    border: 0.5px orange solid;
+    
+}
+
+.row input:hover{
+    border: 1px rgb(239, 186, 121) solid;
+    color: white;
+}
+
+#rr1 input{
+    background-color: black;
+    padding: 10px;
+    padding-right: 150px;
+    border: 0.5px orange solid;
+    
+}
+
+#rr1 input:hover{
+    border: 1px rgb(239, 186, 121) solid;
+    color: white;
+}
+.xx2 input{
+    background-color: black;
+    padding: 60px;
+    padding-right:780px;
+    border: 0.5px orange solid;
+}
+
+.xx2 input:hover{
+    border: 1px rgb(239, 186, 121) solid;
+    color: white;
+}
+
+/* 7th page ends */
+
+/* 8th page :start */
+#put{
+    background-color: rgb(37, 36, 36);
+}
+
+.kk3{
+    color: rgba(255, 255, 255, 0.884);
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 20px;
+    
+}
+
+.kk4{
+    color: rgb(239, 181, 106);
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size: 40px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    margin-top: 10%;
+}
+.wrapper h1{
+    font-family: 'Allura',cursive;
+    font-size: 30px;
+    margin-bottom: 60px;
+    text-align: center;
+
+}
+
+.team{
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+    flex:wrap;
+
+}
+
+.team .team_member{
+    background: #fff;
+    margin: 5px;
+    margin-bottom: 50px;
+    width: 400px;
+    padding: 20px;
+    line-height: 20px;
+    color: #8e8b8b;
+    position: relative;
+}
+
+.team .team_member p.role{
+    color: #ccc;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin: 12px 0;
+}
+
+.team .team_member .team_img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50%;
+    left: 65%;
+    
+    
+}
+
+.team .team_member .team_img{
+    width: 60px;
+    height: 60px;
+    padding: 20px;
+    padding-top: 60px;
+    padding-left: 10px;
+}
+
+.role{
+    color: rgba(126, 13, 13, 0.644);
+}
+h3{
+    color: rgba(2, 21, 21, 0.683);
+}
+/* 8th page ends */
+
+/* 9th page :start */
+#win{
+    background-color: black;
+}
+
+.vc1{
+    color: #fff;
+    padding-top: 30px;
+    margin-left: 40px;
+}
+.vc2{
+    color:rgb(249, 210, 151) ;
+    font-size: 40px;
+    margin-left: 40px;
+}
+
+.vc3 img:hover{
+    height:280px;
+    width: 330px;
+}
+/* 9th page ends */
+
+/* 10th page start */
+#leg{
+    background-color: black;
+}
+
+.vc4{
+    color: #fff;
+    padding-top: 30px;
+    margin-left: 40px;
+}
+
+.vc5{
+    color: rgba(255, 192, 97, 0.854);
+    margin-left: 40px;
+    font-size: 40px;
+}
+
+.ma1 img{
+    padding-top: 30px;
+    padding-left: 60px;
+   margin-left: 10px;
+}
+
+/* the 10th page ends  */
+
+/* last page :start */
+
+#dk{
+    background-color: black;
+    display: flex;
+   
+}
+
+.vk h3{
+    color: #fff;
+    margin-left: 30px;
+    
+}
+
+.vk h5{
+    color: #fff;
+    padding-top: 40px;
+    margin-left: 30px;
+}
+.rs1{
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.rs2{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 50%;
+    margin-left: 5px;
+    
+}
+
+.rs3{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 50%;
+    margin-left: 5px;
+    
+}
+
+.rs4{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 50%;
+    margin-left: 5px;
+    
+}
+
+.rs5{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 50%;
+    margin-left: 5px;
+    
+}
+
+dt{
+    color: #fff;
+    font-size: 20px;
+}
+
+dd{
+    color: #fff;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.vk1{
+    padding-left: 60px;
+}
+
+.vk2{
+    padding-left: 80px;
+}
+
+.vk3{
+    padding-left: 80px;
+}
+
+/* last page ends */
+
+/* 11th page :start */
+#egg{
+    background-color: black;
+}
+
+.cr{
+    color: #fff;
+    font-size: 15px;
+    margin-left: 40px;
+}
+
+.cr1{
+    color: rgb(249, 190, 113);
+    font-size: 40px;
+    margin-left: 40px;
+    padding-top: 10px;
+}
+
+.egg2 h5{
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    margin-left: 30px;
+}
+
+.egg2 h6{
+    color: white;
+    font-size: 15px;
+    margin-left: 30px;
+}
+
+
+
+
+.egg2 img{
+    border-radius: 50%;
+    display: flex;
+}
+
+
+/* 11th page ends */
+
+
+/* last page starts */
+#wc{
+    background-color: black;
+    color: #fff;
+}
+
+.kv h5{
+padding-left: 400px;
+font-size: 17px;
+}
+
+.kv h6{
+    padding-left: 500px;
+    padding-top: 13px;
+    font-size: 14px;
+}
